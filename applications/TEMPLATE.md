@@ -1,30 +1,23 @@
-# Application: [Your Name]
+Application: Himanshu Gadekar
+1. Name
+Himanshu Pravin Gadekar
 
-> **Instructions:** Copy this file to `applications/your-name.md` (use kebab-case — e.g. `priya-sharma.md`).
-> Fill in each of the 5 sections below. Delete these instructions before you open your PR.
+2. Portfolio
+https://himanshugpg.netlify.app/
 
----
+3. LinkedIn
+https://www.linkedin.com/in/himanshu-gadekar-57784825a/
 
-## 1. Name
+ 4. A project you've shipped recently
+AI Fitness Assistant (Computer Vision + Full Stack)  
+https://himanshugpg.netlify.app/
+I built a real-time AI fitness assistant that uses pose detection (MediaPipe + OpenCV) to track user posture and provide instant feedback during exercises. I handled the full system — from frontend (React) to backend (Node.js) and AI integration.  
 
-_Your full name._
+If I revisit it, I would improve accuracy under different lighting conditions and optimize latency for smoother real-time feedback.
 
-## 2. Portfolio
+5. Why you want to join Amber
+What stands out to me about Amber is that this role focuses on thinking, systems, and real-world problem solving — not just visual design. I’m particularly interested in how you approach product decisions and user experience at scale, especially in a space like student housing where trust and clarity matter a lot.  
 
-_Link to your portfolio, site, Dribbble, Behance, Notion — anywhere we can see your work._
+I enjoy building end-to-end systems and thinking about how users actually interact with products, and Amber seems like a place where that kind of thinking is valued. This internship feels like an opportunity to move beyond just building features and start understanding how good products are designed and improved.
 
-## 3. LinkedIn
-
-_Link to your LinkedIn profile._
-
-## 4. A project you've shipped recently
-
-_Link to something you've shipped in the last 6–12 months. Add 2–4 sentences: what it is, what you did on it, and what you'd change now._
-
-## 5. Why you want to join Amber
-
-_3–5 sentences. Please don't write "I'm passionate about design." Tell us what specifically pulls you to Amber — the product, the students we serve, the team, the problem space. Be honest._
-
----
-
-_By opening this PR you confirm the work above is yours and that you've read [the role](https://github.com/sudo-anmol/design-internship)._
+By opening this PR you confirm the work above is yours and that you've read [the role](https://github.com/sudo-anmol/design-internship)._
